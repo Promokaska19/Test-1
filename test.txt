@@ -1,0 +1,3 @@
+[user]
+email=denis.mikhalchuk.45@gmail.com
+name=Denys
